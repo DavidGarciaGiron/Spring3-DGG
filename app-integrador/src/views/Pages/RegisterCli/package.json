@@ -1,0 +1,6 @@
+{
+  "name": "RegisterCli",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RegisterCli.js"
+}

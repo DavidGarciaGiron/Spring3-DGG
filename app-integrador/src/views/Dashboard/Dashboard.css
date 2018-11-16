@@ -1,0 +1,18 @@
+.contenedor{
+    background: white;
+    position: absolute;
+    width: 90%;
+    margin-left: 4%;
+    margin-right: 2%;
+    margin-top:1%;
+    padding-top: 4%;
+    padding-left: 10%;
+    padding-bottom: 8%;
+    color:white;
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
+.contenedor h1{
+  color: black;
+}
